@@ -1,0 +1,13 @@
+{
+    "env": {
+        "node": true,
+        "browser": false,
+        "es6": true,
+        "shared-node-browser": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "sourceType": "module"
+    },
+    "extends": "eslint:recommended"
+}
